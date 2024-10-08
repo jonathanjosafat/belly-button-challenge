@@ -8,3 +8,5 @@ The dataset reveals that a small handful of microbial species (also called opera
  The bar chart displays the top 10 bacteria cultures found in the belly button for the dataset.
 
  The bubble chart displays the bacteria culters per sample for the dataset.
+
+ Github Pages: https://jonathanjosafat.github.io/belly-button-challenge/
